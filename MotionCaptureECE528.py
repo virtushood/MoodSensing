@@ -7,6 +7,7 @@ background_init = None
 
 video = cv2.VideoCapture(0)
  
+ 
 # While loop set to cycle every 2 seconds to avoid spam capture.
 while True:
 
